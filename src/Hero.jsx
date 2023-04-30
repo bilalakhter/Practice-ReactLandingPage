@@ -18,7 +18,7 @@ function Hero() {
 
       </div>
                <div className='heroimage z-10 w-[40%]'>
-                  <img className='w-full h-full object-cover' src="/src/images/hero-image.png" alt="" />
+                  <img className='w-full h-full object-cover' src="/src/assets/hero-image.png" alt="" />
             </div>
     </div>
     </div>

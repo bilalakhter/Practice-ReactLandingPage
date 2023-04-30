@@ -13,12 +13,12 @@ function Team() {
               </div>
               </div>
               <div className='teammembers'>
-                         <div className='teamitem'> <img className='imgteamitem' src="/src/images/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
-                         <div className='teamitem'> <img className='imgteamitem' src="/src/images/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
-                         <div className='teamitem'> <img className='imgteamitem' src="/src/images/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
-                         <div className='teamitem'> <img className='imgteamitem' src="/src/images/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
-                         <div className='teamitem'> <img className='imgteamitem' src="/src/images/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
-                         <div className='teamitem'> <img className='imgteamitem' src="/src/images/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
+                         <div className='teamitem'> <img className='imgteamitem' src="/src/assets/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
+                         <div className='teamitem'> <img className='imgteamitem' src="/src/assets/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
+                         <div className='teamitem'> <img className='imgteamitem' src="/src/assets/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
+                         <div className='teamitem'> <img className='imgteamitem' src="/src/assets/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
+                         <div className='teamitem'> <img className='imgteamitem' src="/src/assets/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
+                         <div className='teamitem'> <img className='imgteamitem' src="/src/assets/person.png" alt="" /><h4 className='teamnaam'>Name</h4></div>
               </div>
              </div>
           </div>
