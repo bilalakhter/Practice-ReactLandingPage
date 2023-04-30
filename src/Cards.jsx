@@ -11,21 +11,21 @@ function Cards() {
     <h1>Card Title</h1>
     <p>More text can go here as well asnd some more text lets add some more text</p>
      <div className='birdsimage '>
-        <img className='birdie' src="/public/birds.jpg" alt="" />
+        <img className='birdie' src="/images/birds.jpg" alt="" />
      </div>
   </div>
   <div class="card-box w-[30%] ">
     <h1>Card Title</h1>
     <p>More text can go here as well asnd some more text lets add some more text</p>
      <div className='birdsimage '>
-        <img className='birdie' src="/public/birds.jpg" alt="" />
+        <img className='birdie' src="/images/birds.jpg" alt="" />
      </div>
   </div>
   <div class="card-box w-[30%] ">
     <h1>Card Title</h1>
     <p>More text can go here as well asnd some more text lets add some more text</p>
      <div className='birdsimage '>
-        <img className='birdie' src="/public/birds.jpg" alt="" />
+        <img className='birdie' src="/images/birds.jpg" alt="" />
      </div>
   </div>
   </div>
