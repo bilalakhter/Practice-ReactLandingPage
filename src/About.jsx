@@ -12,7 +12,7 @@ function About() {
                          <div className='about_chota_container p-[20px]'>
                           <div className='chota-item'>
                             <div className='lain-men w-[25%] mb-[10px]'>
-                              <img src="/images/icon1.png" alt="" />
+                              <img src="/src/images/icon1.png" alt="" />
                               <h4>Point title</h4>
                             </div>
                      
@@ -20,14 +20,14 @@ function About() {
                           </div>
                           <div className='chota-item'>
                           <div className='lain-men w-[25%]'>
-                              <img src="/images/icon1.png" alt="" />
+                              <img src="/src/images/icon1.png" alt="" />
                               <h4>Point title</h4>
                             </div>
                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis consectetur odit suscipit laudantium iusto. Sed temporibus, asperiores, nihil mollitia ipsam beatae commodi.</p>
                           </div>
                           <div className='chota-item'>
                           <div className='lain-men w-[25%]'>
-                              <img src="/images/icon1.png" alt="" />
+                              <img src="/src/images/icon1.png" alt="" />
                               <h4>Point title</h4>
                             </div>
                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis consectetur odit suscipit laudantium iusto. Sed temporibus, asperiores, nihil mollitia ipsam beatae commodi.</p>
@@ -36,7 +36,7 @@ function About() {
                          </div>
                     </div>
                     <div className='image-about w-[40%] p-[20px]'>
-                      <img src="/images/about.png" alt="" />
+                      <img src="/src/images/about.png" alt="" />
                     </div>
        </div>
        </div>
